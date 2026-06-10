@@ -19,5 +19,6 @@
     background-color: aqua;
     --dark-red:#981a2c;
     color:#981a2c;
+    color:var(--dark-red);
     
 }
