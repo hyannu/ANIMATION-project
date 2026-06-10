@@ -8,6 +8,7 @@
 .box{
     border: 2px solid green;
     background-color: aqua;
-    color:chocolate;
+    --dark-red:#981a2c;
+    color:#981a2c;
     
 }
