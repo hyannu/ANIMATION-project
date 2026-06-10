@@ -11,6 +11,9 @@
     margin: 20px;
     border: 2px solid orange;
     background-color:aqua;
+    /* transition: 2s; */
+    /* transition-property: all; */
+    
 
 }
 .box:hover{
