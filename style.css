@@ -8,9 +8,10 @@
 
 .container{
     border: 1px solid brown;
-    background-color:red;
+    background-color:green;
     height: 300px;
     width: 300px;
+    background-color: var(--dark-red);
 }
 
 .box{
